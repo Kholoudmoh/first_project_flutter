@@ -1,16 +1,39 @@
-# first_project
+# First Flutter Project ✨
 
-A new Flutter project.
+This is my first mobile application built using **Flutter** and **Dart**.
 
-## Getting Started
+## 📱 Project Overview
 
-This project is a starting point for a Flutter application.
+The project includes a **Sign-Up screen** where users can enter their name, email, and password. The interface is built using basic Flutter widgets and follows a clean and simple design.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tools & Technologies
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Dart Programming Language
+- Android Studio
+- Git & GitHub
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Screens Implemented
+
+### ✅ signup_screen.dart
+
+- A user registration screen with:
+  - `TextFormField` for name, email, and password
+  - A `Sign Up` button
+  - UI layout built using `Column` and `Padding`
+  - Simple light-themed design
+
+## 🚀 How I Built It
+
+1. Opened Android Studio and created a new Flutter project.
+2. Created a new Dart file `signup_screen.dart` inside the `lib/` directory.
+3. Designed the UI using Flutter widgets.
+4. Initialized a Git repository from Android Studio.
+5. Connected the project with GitHub and pushed all files.
+
+## 🔗 GitHub Repository
+
+[Click here to view the project on GitHub](https://github.com/Kholoudmoh/first_project_flutter)
+
+---
+
